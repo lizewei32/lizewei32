@@ -2,7 +2,6 @@
 
 <p align="left">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <img width="100px" src="https://github.com/lizewei32/lizewei32/blob/main/my.JPG" align="center" alt="myself" />
  <h2 align="left">lizewei</h2>
  <p align="left">I am starting using Github as my future platform, welcom to visit!</p>
 </p>
