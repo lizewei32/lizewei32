@@ -51,7 +51,7 @@ Other        7 mins          █░░░░░░░░░░░░░░░░
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lizewei&show_icons=true&theme=gotham" alt="lizewei32" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lizewei&show_icons=true&theme=gotham" alt="lizewei32" />
   
 ![lizewei's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=lizewei)
 
